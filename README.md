@@ -4,7 +4,7 @@ CF-DNS方式（推荐）：
 ```
 bash <(curl -sL https://raw.githubusercontent.com/qichiyuhub/auto-ssl-cert/refs/heads/main/cloudflare.sh)
 ```
-仅支持debeian/ubuntu- CF
+仅支持debeian/ubuntu- CF，脚本针对singbox写的，其他用途自行修改，singbox配置也可以直接配置API申请，根据自己情况选择。
 
 HTTP方式：
 ```
